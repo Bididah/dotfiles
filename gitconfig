@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hanfihamza20@gmail.com
+	name = Hamza hanfi
